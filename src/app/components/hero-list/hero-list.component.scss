@@ -1,0 +1,18 @@
+:host {
+  width: 700px;
+  display: block;
+}
+.container {
+  display: flex;
+}
+.container mat-form-field {
+  flex-grow: 1;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-row {
+  cursor: pointer;
+}

@@ -1,0 +1,32 @@
+<h2 mat-dialog-title>{{ data ? "Edit hero" : "New hero" }}</h2>
+<mat-dialog-content class="mat-typography">
+  <form [formGroup]="heroForm" (ngSubmit)="onSubmit($event)">
+    <mat-form-field appearance="outline" floatLabel="always">
+      <mat-label>name</mat-label>
+      <input matInput formControlName="name" />
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" floatLabel="always">
+      <mat-label>origin</mat-label>
+      <input matInput formControlName="origin" />
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" floatLabel="always">
+      <mat-label>age</mat-label>
+      <input matInput formControlName="age" />
+    </mat-form-field>
+  </form>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-raised-button mat-button mat-dialog-close>Cancel</button>
+  <button
+    mat-raised-button
+    mat-button
+    [mat-dialog-close]="heroForm.value"
+    color="primary"
+    type="submit"
+    cdkFocusInitial
+  >
+    Save
+  </button>
+</mat-dialog-actions>

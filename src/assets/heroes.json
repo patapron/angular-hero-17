@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "origin": "Krypton",
+    "age": 35
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "origin": "Gotham City",
+    "age": 40
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "origin": "Themyscira",
+    "age": 3000
+  },
+  {
+    "id": 4,
+    "name": "Spider-Man",
+    "origin": "New York City",
+    "age": 25
+  },
+  {
+    "id": 5,
+    "name": "Iron Man",
+    "origin": "Los Angeles",
+    "age": 45
+  },
+  {
+    "id": 6,
+    "name": "Captain America",
+    "origin": "Brooklyn",
+    "age": 100
+  },
+  {
+    "id": 7,
+    "name": "Thor",
+    "origin": "Asgard",
+    "age": 1500
+  },
+  {
+    "id": 8,
+    "name": "Hulk",
+    "origin": "Dayton",
+    "age": 40
+  },
+  {
+    "id": 9,
+    "name": "Black Widow",
+    "origin": "Stalingrad",
+    "age": 35
+  },
+  {
+    "id": 10,
+    "name": "Wolverine",
+    "origin": "Alberta, Canada",
+    "age": 200
+  },
+  {
+    "id": 11,
+    "name": "Storm",
+    "origin": "New York City",
+    "age": 30
+  },
+  {
+    "id": 12,
+    "name": "The Flash",
+    "origin": "Central City",
+    "age": 30
+  },
+  {
+    "id": 13,
+    "name": "Green Lantern",
+    "origin": "Coast City",
+    "age": 35
+  },
+  {
+    "id": 14,
+    "name": "Aquaman",
+    "origin": "Atlantis",
+    "age": 35
+  },
+  {
+    "id": 15,
+    "name": "Cyborg",
+    "origin": "Detroit",
+    "age": 25
+  },
+  {
+    "id": 16,
+    "name": "Black Panther",
+    "origin": "Wakanda",
+    "age": 40
+  },
+  {
+    "id": 17,
+    "name": "Doctor Strange",
+    "origin": "New York City",
+    "age": 50
+  },
+  {
+    "id": 18,
+    "name": "Daredevil",
+    "origin": "New York City",
+    "age": 35
+  },
+  {
+    "id": 19,
+    "name": "Hawkeye",
+    "origin": "Waverly, Iowa",
+    "age": 45
+  },
+  {
+    "id": 20,
+    "name": "Robin",
+    "origin": "Gotham City",
+    "age": 18
+  },
+  {
+    "id": 21,
+    "name": "Supergirl",
+    "origin": "Krypton",
+    "age": 25
+  },
+  {
+    "id": 22,
+    "name": "Green Arrow",
+    "origin": "Star City",
+    "age": 35
+  },
+  {
+    "id": 23,
+    "name": "Shazam",
+    "origin": "Fawcett City",
+    "age": 30
+  },
+  {
+    "id": 24,
+    "name": "Ant-Man",
+    "origin": "Coral Gables, Florida",
+    "age": 35
+  },
+  {
+    "id": 25,
+    "name": "Batgirl",
+    "origin": "Gotham City",
+    "age": 30
+  },
+  {
+    "id": 26,
+    "name": "Hawkman",
+    "origin": "Midway City",
+    "age": 40
+  },
+  {
+    "id": 27,
+    "name": "Captain Marvel",
+    "origin": "Boston",
+    "age": 30
+  },
+  {
+    "id": 28,
+    "name": "The Punisher",
+    "origin": "New York City",
+    "age": 45
+  },
+  {
+    "id": 29,
+    "name": "Jean Grey",
+    "origin": "Annandale-on-Hudson, New York",
+    "age": 35
+  },
+  {
+    "id": 30,
+    "name": "Professor X",
+    "origin": "Salem Center, New York",
+    "age": 60
+  }
+]

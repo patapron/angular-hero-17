@@ -1,0 +1,10 @@
+<div class="hero-details" *ngIf="hero$ | async as hero">
+  <h2>{{ hero.id }}: {{ hero.name }}</h2>
+  <p>origin: {{ hero.origin }}</p>
+  <p>age: {{ hero.origin }} terran years</p>
+  <button mat-icon-button aria-label="delete" (click)="goBack()">
+    <mat-icon>
+      <span class="material-symbols-outlined"> arrow_back </span>
+    </mat-icon>
+  </button>
+</div>
